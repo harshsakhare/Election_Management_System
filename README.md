@@ -19,3 +19,10 @@ A robust Java-based application designed to digitize the electoral process. This
 2. Import into your Java IDE.
 3. Import the database schema from the `/electionsdb` folder.
 4. Run `LOGIN.java` to start the app.
+## 📸 Screenshots
+
+### Login Screen
+![Login Screen](images/login.png)
+
+### Voting Dashboard
+![Voter Panel](images/votingPannel.png)
